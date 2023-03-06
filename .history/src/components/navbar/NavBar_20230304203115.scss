@@ -1,0 +1,29 @@
+.navbar {
+    display: flex;
+    justify-content: center;
+    .container {
+        display: flex;
+        justify-content: space-between;
+        width: 1400px;
+        padding: 20px 0px;
+
+    .logo {
+        font-size: 34px;
+        font-weight: bold;
+        .text{
+
+        }
+        .dot{
+            color: #1dbf73;
+        }
+    }
+    .links{
+        display: flex;
+        a
+        gap: 24px;
+         span{
+
+         }
+    }
+    }
+}
